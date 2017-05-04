@@ -3,6 +3,8 @@ from dateutil.parser import parse
 from crawlers.tools import get_html_doc
 import json
 
+import unidecode
+
 class CrawlerEUStartups:
     def __init__(self, number_of_pages_to_crawl, silent=False):
         self.pages = []
@@ -44,20 +46,24 @@ class CrawlerEUStartups:
                             content += paragraph.getText()
                         except AttributeError:
                             pass
+                    content = unidecode.unidecode(content)
                     try:
                         date = soup.select_one("span.td-post-date time")
                         date = date["datetime"]
                         date = int(parse(date).timestamp())
-                    except TypeError:
+                    except :
                         date = str(0)
-                    except AttributeError:
-                        date = str(0)
-                    title = soup.select_one("h1.entry-title").getText()
+
+                    try:
+                        title = soup.select_one("h1.entry-title").getText()
+                        title = unidecode.unidecode(title)
+                    except:
+                        continue
+
                     article = {
                         "title": title,
                         "content": content,
                         "date": date,
-                        # "tags": tags,
                         "url": link,
                         "origin": "eu-startups"
                     }

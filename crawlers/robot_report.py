@@ -3,6 +3,8 @@ from crawlers.tools import get_html_doc
 import time
 from dateutil.parser import parse
 
+import unidecode
+
 
 class CrawlerRobotReport:
     def __init__(self, number_of_pages_to_crawl, silent=False):
@@ -42,8 +44,10 @@ class CrawlerRobotReport:
                             content += paragraph.getText()
                         except AttributeError:
                             pass
+                    content = unidecode.unidecode(content)
                     try:
                         title = soup.select_one("h1").getText()
+                        title = unidecode.unidecode(title)
                     except TypeError:
                         title = str(0)
                     except AttributeError:
@@ -53,9 +57,7 @@ class CrawlerRobotReport:
                         date = paragraphs[0].getText()
                         date = date.split()
                         date = int(parse(date[2]).timestamp())
-                    except TypeError:
-                        date= str(0)
-                    except AttributeError:
+                    except :
                         date= str(0)
 
                     article = {

@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 from crawlers.tools import get_html_doc
 from dateutil.parser import parse
 
+import unidecode
 
 class CrawlerEntrepreneur:
     def __init__(self, number_of_pages_to_crawl, silent=False):
@@ -28,12 +29,6 @@ class CrawlerEntrepreneur:
 
                 blocks = soup.select(".sectionframe .pl-floathero")  # article_selector
                 for block in blocks:
-                    # article_type_text = ""
-                    # article_type = block.select_one(".block .tags .tag span")
-                    # if article_type is not None:
-                    #     article_type_text = article_type.getText()
-                    # if article_type_text == "Startups" or article_type_text == "":
-
                     link = block.select_one(".block h3 a")["href"]  # url
                     links.append(self.relative_url_origin + link)
 
@@ -48,26 +43,26 @@ class CrawlerEntrepreneur:
                             content += paragraph.getText()
                         except AttributeError:
                             pass
+                    content = unidecode.unidecode(content)
                     try:
                         header = soup.select_one(".arttext")
                         date = header.find(itemprop="articlebody")
                         date = date.select_one("time")
                         date = date["datetime"]
                         date = int(parse(date).timestamp())
-                    except TypeError:
-                        date = str(0)
-                    except AttributeError:
+                    except :
                         date = str(0)
 
-                    # tags = []
-                    # tags_container = soup.select(".article-header .tags .tag-item .tag") #tag; optionnel
-                    # for tag in tags_container:
-                    #     tags.append(tag.getText())
+                    try:
+                        title = soup.select_one("title").getText()
+                        title = unidecode.unidecode(title)
+                    except:
+                        continue
+
                     article = {
-                        "title": soup.select_one("title").getText(),
+                        "title": title,
                         "content": content,
                         "date": date,
-                        # "tags": tags,
                         "url": link,
                         "origin": "entrepreneur"
                     }

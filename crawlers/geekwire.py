@@ -2,6 +2,8 @@ from bs4 import BeautifulSoup
 from crawlers.tools import get_html_doc
 from dateutil.parser import parse
 
+import unidecode
+
 
 class CrawlerGeekwire:
     def __init__(self, number_of_pages_to_crawl, silent=False):
@@ -47,24 +49,25 @@ class CrawlerGeekwire:
                             content += paragraph.getText()
                         except AttributeError:
                             pass
+                    content = unidecode.unidecode(content)
                     try:
                         header = soup.select_one(".page-header .published")
                         date = header["datetime"]
                         date = int(parse(date).timestamp())
-                    except TypeError:
-                        date = str(0)
-                    except AttributeError:
+                    except :
                         date = str(0)
 
-                    # tags = []
-                    # tags_container = soup.select(".article-header .tags .tag-item .tag") #tag; optionnel
-                    # for tag in tags_container:
-                    #     tags.append(tag.getText())
+                    try:
+                        title = soup.select_one("title").getText().split(' - ')[0]
+                        title = unidecode.unidecode(title)
+                    except:
+                        continue
+
+
                     article = {
-                        "title": soup.select_one("title").getText(),
+                        "title": title,
                         "content": content,
                         "date": date,
-                        # "tags": tags,
                         "url": link,
                         "origin": "geekwire"
                     }
