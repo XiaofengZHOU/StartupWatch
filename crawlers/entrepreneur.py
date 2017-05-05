@@ -67,7 +67,8 @@ class CrawlerEntrepreneur:
                         "origin": "entrepreneur"
                     }
 
-                    self.articles.append(article)
+                    if len(content) > 1000:
+                        self.articles.append(article)
             except TypeError as e:
                 print("Impossible de crawler Entrepreneur : Erreur "+str(e))
                 return

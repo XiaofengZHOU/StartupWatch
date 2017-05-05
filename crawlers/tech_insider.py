@@ -13,7 +13,7 @@ class CrawlerTechInsider:
         self.articles = []
         self.silent = silent
         self.name = "TechInsider"
-        base_url = "http://www.techinsider.io/archives?vertical=businessinsider&date="
+        base_url = "http://www.techinsider.io/archives?vertical=tech&date="
         self.relative_url_origin = "http://www.techinsider.io"
         current = datetime.date.today()
         minus_one_day = relativedelta(days=-1)

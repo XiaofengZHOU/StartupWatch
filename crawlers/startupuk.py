@@ -47,8 +47,13 @@ class CrawlerStartupsUK:
                     content = unidecode.unidecode(content)
                     try:
                         date = soup.find("meta",  property="article:published_time")
-                        date = date["content"]
-                        date = int(parse(date).timestamp())
+                        if date is not None:
+                            date = date["content"]
+                            date = int(parse(date).timestamp())
+                        else:
+                            date = soup.select("div.post-date")[0].getText()
+                            date = date.split(':')[-1]
+                            date = int(parse(date).timestamp())
                     except TypeError:
                         date = str(0)
                     except AttributeError:
@@ -59,7 +64,6 @@ class CrawlerStartupsUK:
                         "title": title,
                         "content": content,
                         "date": date,
-                        # "tags": tags,
                         "url": link,
                         "origin": "startupuk"
                     }
