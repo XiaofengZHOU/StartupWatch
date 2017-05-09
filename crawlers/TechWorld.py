@@ -32,7 +32,7 @@ class CrawlerTechWorld:
                 content = ""
                 
                 if soup.select_one("main header.slideshowHeader"):
-                    group = soup.select_one("div.titleGroup meta")
+                    group = soup.select_one("div.titleGroup") #maybe should add meta
                     paragraphs = group.find_all("p",recursive=False)
 
                     for para in paragraphs:
