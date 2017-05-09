@@ -43,7 +43,7 @@ class CrawlerMashable:
             paragraphs = soup.select(".article-content p")# container-selector + text_selector
             for paragraph in paragraphs:
                 try:
-                    content += paragraph.getText()
+                    content = content + paragraph.getText()+ ' '
                 except AttributeError:
                     print("AttributeError in getting text")
                     pass

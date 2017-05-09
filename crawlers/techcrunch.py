@@ -44,7 +44,7 @@ class CrawlerTechcrunch:
                         try:
                             if 'id'  in paragraph.attrs.keys():
                                 content = ""
-                            content += paragraph.getText()
+                            content = content + paragraph.getText()+ ' '
                         except AttributeError:
                             print("Attribute error !")
                             pass

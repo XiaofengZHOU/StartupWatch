@@ -41,7 +41,7 @@ class CrawlerRobotReport:
                     paragraphs = soup.select("article p")
                     for paragraph in paragraphs[1:]:
                         try:
-                            content += paragraph.getText()
+                            content = content + paragraph.getText()+ ' '
                         except AttributeError:
                             pass
                     content = unidecode.unidecode(content)

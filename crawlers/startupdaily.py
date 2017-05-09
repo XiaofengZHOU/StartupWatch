@@ -45,7 +45,7 @@ class CrawlerStartupDaily:
                 for paragraph in paragraphs:
                     if not (paragraph.has_attr('style')):
                         try:
-                            content += paragraph.getText()
+                            content = content + paragraph.getText()+ ' '
                         except:
                             pass
                 content = unidecode.unidecode(content)

@@ -39,7 +39,7 @@ class CrawlerTechWorld:
                         text = para.getText()
                         if "Read next:" in text:
                             text=""
-                        content = content+text
+                        content = content+text+' '
                                             
                     blocks = soup.select("section.carousel__item-description")
                     for block in blocks:

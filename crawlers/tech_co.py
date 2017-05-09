@@ -41,7 +41,7 @@ class CrawlerTechCo:
                     paragraphs = soup.select(".content-wrap .dropcap p")  # container-selector + text_selector
                     for paragraph in paragraphs:
                         try:
-                            content += paragraph.getText()
+                            content = content + paragraph.getText()+ ' '
                         except AttributeError:
                             pass
                     content = unidecode.unidecode(content)

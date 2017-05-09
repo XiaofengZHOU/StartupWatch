@@ -53,7 +53,7 @@ class CrawlerTechInsider:
                     paragraphs = soup.select(".post-content p")# container-selector + text_selector
                     for paragraph in paragraphs:
                         try:
-                            content += paragraph.getText()
+                            ccontent = content + paragraph.getText()+ ' '
                         except AttributeError:
                             pass
                     content = ' '.join(content.split())
