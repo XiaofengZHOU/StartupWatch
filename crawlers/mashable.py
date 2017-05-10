@@ -17,7 +17,7 @@ class CrawlerMashable:
 
         self.driver.get(base_url)
         for i in range(number_of_pages_to_crawl):
-            time.sleep(0.5)
+            time.sleep(1)
             self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight)")
 
     def crawl(self):
