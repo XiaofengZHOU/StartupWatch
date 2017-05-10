@@ -59,9 +59,14 @@ class CrawlerTechcrunch:
                     tags_container = soup.select(".article-header .tags .tag-item .tag")
                     for tag in tags_container:
                         tags.append(tag.getText())
+                    try:
+                        title = unidecode.unidecode(soup.select_one("h1.tweet-title").getText())
+                    except:
+                        print('error of site: ',link)
+                        continue
 
                     article = {
-                        "title": unidecode.unidecode(soup.select_one("h1.tweet-title").getText()),
+                        "title": title ,
                         "content": content,
                         "date": date,
                         "tags": tags,
