@@ -73,7 +73,7 @@ class CrawlerTechCo:
                     }
 
                     self.articles.append(article)
-                time.sleep(60)
+                time.sleep(10)
             except ValueError as e:
                 print("Impossible de crawler Tech.co : Erreur "+str(e))
                 return

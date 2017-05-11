@@ -69,8 +69,8 @@ class CrawlerVenturebeat:
                         "url": link,
                         "origin": "venturebeat"
                     }
-
-                    self.articles.append(article)
+                    if len(content) >1000:
+                        self.articles.append(article)
             except ValueError as e:
                 print("Impossible de crawler Venturebeat : Erreur "+str(e))
                 return
