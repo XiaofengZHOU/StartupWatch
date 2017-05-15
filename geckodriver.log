@@ -2057,3 +2057,571 @@ JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_
 JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
 JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
 [GPU 10756] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1494884806537	geckodriver	INFO	Listening on 127.0.0.1:59112
+1494884808624	mozprofile::profile	INFO	Using profile path C:\Users\ZHOUXI~1\AppData\Local\Temp\rust_mozprofile.RjhZSW7ffBhr
+1494884808624	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1494884808640	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59118
+1494884810392	Marionette	INFO	Listening on port 59118
+[GPU 10776] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1494884810705	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://assets.zendesk.com/embeddable_framework/main.js, line 31: TypeError: b is undefined
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://assets.zendesk.com/embeddable_framework/main.js, line 31: TypeError: b is undefined
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://www.crunchbase.com/organization/badi, line 106: ReferenceError: Handlebars is not defined
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+[GPU 10776] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x800007,name=PHttpChannel::Msg_Redirect2Verify) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400A8,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+[Child 3444] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1494888540572	geckodriver::marionette	ERROR	Failed to kill browser process
