@@ -6954,3 +6954,11 @@ JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_i
 ###!!! [Child][MessageChannel::SendAndWaiJavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
 JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
 JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 10472] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
