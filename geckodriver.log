@@ -3432,3 +3432,1760 @@ JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_i
 JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
 JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
 JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+1495040022336	geckodriver	INFO	Listening on 127.0.0.1:50212
+1495040024391	mozprofile::profile	INFO	Using profile path C:\Users\ZHOUXI~1\AppData\Local\Temp\rust_mozprofile.5B1oCq9MgfuY
+1495040024407	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1495040024454	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50218
+1495040027814	Marionette	INFO	Listening on port 50218
+[GPU 10512] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495040028118	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/ed*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[GPU 11436] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://animate.adobe.com/runtime/6.0.0/edge.6.0.0.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+[GPU 10512] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10916] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x800006,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+[Child 10916] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400A8,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1495044211456	geckodriver	INFO	Listening on 127.0.0.1:60676
+1495044213535	mozprofile::profile	INFO	Using profile path C:\Users\ZHOUXI~1\AppData\Local\Temp\rust_mozprofile.SqkZnv0z9czI
+1495044213550	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1495044213550	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60682
+1495044215453	Marionette	INFO	Listening on port 60682
+1495044215572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/preloadjs_0.6.2_d7b96570d4552592ae479162e546cb25_min.js, line 13: ReferenceError: _this is not defined
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/preloadjs_0.6.2_d7b96570d4552592ae479162e546cb25_min.js, line 13: ReferenceError: _this is not defined
+[GPU 2236] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+[Child 4260] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400A8,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://f20.adventori.com/lp/enabler/edge.6.0.0.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://animate.adobe.com/runtime/6.0.0/edge.6.0.0.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+[GPU 12888] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9308] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9308] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
