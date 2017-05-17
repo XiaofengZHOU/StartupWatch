@@ -9691,3 +9691,1830 @@ JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_i
 JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
 JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
 JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/45351044/20160913044027160/index_fr_fr_300x250_tam_noloop.min.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=bSaDohNK69&t=1, line 3: TypeError: window.getComputedStyle(...) is null
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/preloadjs_0.6.2_d7b96570d4552592ae479162e546cb25_min.js, line 13: ReferenceError: _this is not defined
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/preloadjs_0.6.2_d7b96570d4552592ae479162e546cb25_min.js, line 13: ReferenceError: _this is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/45351044/20160913044027160/index_fr_fr_300x250_tam_noloop.min.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=W9NOGQAMLp&t=1, line 3: TypeError: window.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/preloadjs_0.6.2_d7b96570d4552592ae479162e546cb25_min.js, line 13: ReferenceError: _this is not defined
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/45351044/20160913044027160/index_fr_fr_300x250_tam_noloop.min.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=d73R3UvKvO&t=1, line 3: TypeError: window.getComputedStyle(...) is null
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/preloadjs_0.6.2_d7b96570d4552592ae479162e546cb25_min.js, line 13: ReferenceError: _this is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/45351044/20160913044027160/index_fr_fr_300x250_tam_noloop.min.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=YWfVk8ruMN&t=1, line 3: TypeError: window.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/45351044/20160913044027160/index_fr_fr_300x250_tam_noloop.min.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=MM5oOkdAqe&t=1, line 3: TypeError: window.getComputedStyle(...) is null
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/preloadjs_0.6.2_d7b96570d4552592ae479162e546cb25_min.js, line 13: ReferenceError: _this is not defined
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/45351044/20160913044027160/index_fr_fr_300x250_tam_noloop.min.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=tkTcozWL4b&t=1, line 3: TypeError: window.getComputedStyle(...) is null
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/preloadjs_0.6.2_d7b96570d4552592ae479162e546cb25_min.js, line 13: ReferenceError: _this is not defined
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/preloadjs_0.6.2_d7b96570d4552592ae479162e546cb25_min.js, line 13: ReferenceError: _this is not defined
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/45351044/20160913044027160/index_fr_fr_300x250_tam_noloop.min.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=3XGfgaBfvg&t=1, line 3: TypeError: window.getComputedStyle(...) is null
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/preloadjs_0.6.2_d7b96570d4552592ae479162e546cb25_min.js, line 13: ReferenceError: _this is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/preloadjs_0.6.2_d7b96570d4552592ae479162e546cb25_min.js, line 13: ReferenceError: _this is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://s0.2mdn.net/5522433/1492148846278/300x250/TMB_TermDeposit-Aerostatic_300x250.js, line 788: TypeError: this.bullets is undefined
+JavaScript error: https://s0.2mdn.net/5522433/1492148846278/300x250/TMB_TermDeposit-Aerostatic_300x250.js, line 794: TypeError: this.bullets is undefined
+JavaScript error: https://s0.2mdn.net/5522433/1492148846278/300x250/TMB_TermDeposit-Aerostatic_300x250.js, line 797: TypeError: this.bullets is undefined
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://animate.adobe.com/runtime/6.0.0/edge.6.0.0.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://animate.adobe.com/runtime/6.0.0/edge.6.0.0.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://s.skimresources.com/js/72705X1553005.skimlinks.js, line 81: Error: Permission denied to access property "nodeName"
+[Parent 11668] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+[GPU 11844] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9220] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11844] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
