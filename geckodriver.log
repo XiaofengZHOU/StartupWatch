@@ -6130,3 +6130,877 @@ JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMed
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1495442876441	geckodriver	INFO	Listening on 127.0.0.1:59724
+1495442878349	mozprofile::profile	INFO	Using profile path C:\Users\xizhou\AppData\Local\Temp\rust_mozprofile.2cSvZ7D8eAgd
+1495442878355	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1495442878382	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59736
+1495442884053	Marionette	INFO	Listening on port 59736
+1495442884104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+[Child 11204] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400A8,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1495444770832	geckodriver	INFO	Listening on 127.0.0.1:54039
+1495444772708	mozprofile::profile	INFO	Using profile path C:\Users\xizhou\AppData\Local\Temp\rust_mozprofile.AM4UOaWgRwKQ
+1495444772708	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1495444772739	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54045
+1495444777041	Marionette	INFO	Listening on port 54045
+[GPU 228] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495444778054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/liJavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/playeJavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaM[GPU 5788] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+t/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://animate.adobe.com/runtime/6.0.0/edge.6.0.0.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://code.createjs.com/createjs-2015.11.26.min.js, line 13: NS_ERROR_FAILURE: 
+JavaScript error: https://code.createjs.com/createjs-2015.11.26.min.js, line 13: NS_ERROR_FAILURE: 
+JavaScript error: https://code.createjs.com/createjs-2015.11.26.min.js, line 13: NS_ERROR_FAILURE: 
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://assets.zendesk.com/embeddable_framework/main.js, line 31: TypeError: b is undefined
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://assets.zendesk.com/embeddable_framework/main.js, line 31: TypeError: b is undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1182:3
+dispatch/</req<@chrome://marionette/content/listener.js:365:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:363:15
+
+*************************
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: TypeError: _0xe565x3b1[_0xab4b[1264]] is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/256175/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript error: https://secure-ads.pictela.net/rm/ads/255966/140/300x250/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v5.9.2/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: https://secure-ads.pictela.net/rm/ads/304427/140/320x50/edge_includes/edge.5.0.1.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+[GPU 228] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
