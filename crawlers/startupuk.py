@@ -37,6 +37,8 @@ class CrawlerStartupsUK:
                 for link in links:
                     html_doc = get_html_doc(link)
                     soup = BeautifulSoup(html_doc, 'html.parser')
+                    for script in soup(["script", "style"]):
+                        script.extract() 
                     content = ""
                     paragraphs = soup.select(".content-main p")# container-selector + text_selector
                     for paragraph in paragraphs:
