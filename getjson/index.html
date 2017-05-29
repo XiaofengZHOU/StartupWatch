@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+
+<html ng-app="myApp">
+
+<body>
+
+<script>
+    var app = angular.module('myApp', []);
+    app.controller('jsonCtrl', function ($scope, $http) {
+		var $ctrl = this;
+		$ctrl.data = {};
+		$ctrl.first = true;
+		 
+		let getJSON = () => {
+			console.log("bouton click !");
+			$ctrl.first = false;
+			$http.get('http://localhost:5000/download/').then(function(response) {
+			  $ctrl.data = response;
+			});
+		}
+
+		$ctrl.getJSON = getJSON;
+  });
+</script>
+
+
+
+<div ng-controller="jsonCtrl as app">
+	<button class="btn" ng-click="app.getJSON()">
+		<span>download</span>
+	</button> 
+	<div ng-if="app.first===false">	
+		<p>{{app.data}}</p>
+	</div>
+</div>
+</body>
+</html>

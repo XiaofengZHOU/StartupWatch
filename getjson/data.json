@@ -1,0 +1,398 @@
+{
+    "home": {
+        "title": "Général",
+        "startApp": "lancer l'application",
+        "stopApp": "arrêter l'application",
+        "MessageForm": {
+            "title": "Veuillez saisir la temporisation en minute avant que PEPPER affiche la page de bienvenue si aucune activité détectée",
+            "save": {
+                "label": "Enregistrer"
+            },
+            "speech": "Veuillez définir le speech PEPPER à l’affichage de la page d’accueil"
+        }
+    },
+    "satisfactionSurvey": {
+        "title": "Enquête de satisfaction",
+        "introForm": {
+            "title": "Introduction",
+            "speech": {
+                "label": "Speech"
+            },
+            "text": {
+                "label": "Texte"
+            },
+            "save": {
+                "label": "Enregistrer"
+            }
+        },
+        "endForm": {
+            "title": "Remerciement",
+            "speech": {
+                "label": "Speech"
+            },
+            "text": {
+                "label": "Texte"
+            },
+            "save": {
+                "label": "Enregistrer"
+            }
+        },
+        "addQuestionForm": {
+            "title": "Ajouter une question",
+            "question": {
+                "label": "Question"
+            },
+            "stars": {
+                "label": "Nombre d'étoiles"
+            },
+            "add": {
+                "label": "Ajouter"
+            },
+            "close": {
+                "label": "Fermer"
+            },
+            "new": {
+                "label": "Ajouter une question"
+            },
+            "speech": {
+                "label": "Speech"
+            },
+            "text": {
+                "label": "Texte"
+            }
+        },
+        "editQuestions": {
+            "title": "Questions",
+            "save": {
+                "label": "Enregistrer"
+            },
+            "delete": {
+                "label": "Supprimer"
+            }
+        },
+        "empty": "Aucune question."
+    },
+    "nav": {
+        "administration": "Administration"
+    },
+    "lang": {
+        "fr": {
+            "label": "Français"
+        },
+        "en": {
+            "label": "Anglais"
+        }
+    },
+    "conclusion": {
+        "title": "Conclusion",
+        "data" : {
+            "subject" : "conclusion",
+            "message" : "MCon"
+        },
+        "MessageForm": {
+            "title": "Message de la conclusion",
+            "speech": {
+                "label": "Speech"
+            },
+            "text": {
+                "label": "Texte"
+            },
+            "save": {
+                "label": "Enregistrer"
+            }
+        },
+        "editMessage": {
+            "title": "Message",
+            "save": {
+                "label": "Enregistrer"
+            }
+        }
+    },
+    "feedback": {
+        "title": "Feedback",
+        "data" : {
+            "subject" : "feedback",
+            "message" : ""
+        },
+        "MessageForm": {
+            "title": "Message du feedback",
+            "speechTitle": {
+                "label": "Speech"
+            },
+            "text": {
+                "label": "Texte"
+            },
+            "speechThumbUp": {
+                "label": "Speech en cas de succès"
+            },
+            "speechThumbdown": {
+                "label": "Speech en cas de d’échec"
+            },
+            "save": {
+                "label": "Enregistrer"
+            }
+        },
+        "editMessage": {
+            "title": "Message",
+            "save": {
+                "label": "Enregistrer"
+            }
+        }
+    },
+    "preload": {
+        "title": "PréIntro",
+        "PresentationForm": {
+            "title": "Message de la présentation",
+            "speech": {
+                "label": "Speech"
+            },
+            "text": {
+                "label": "Texte"
+            },
+            "save": {
+                "label": "Enregistrer"
+            },
+            "order" : "En premier",
+            "status" : "Actif ?"
+        },
+        "video":{
+            "title" : "Video",
+            "order" : "En premier",
+            "status" : "Actif ?",
+            "link" : "Lien vers la vidéo"
+        }
+    },
+    "fun": {
+        "title": "Fun",
+        "classification": {
+            "music": "Choix des activités « Musique »",
+            "dance": "Choix des activités « Dance »",
+            "animal": "Choix des activités « Animaux »",
+            "sport": "Choix des activités « Sport »"
+        },
+        "joke": {
+            "label": "Blague",
+            "addJoke": "Nouvelle blague",
+            "editJoke": "Veuillez saisir les blagues",
+            "new": "Ajouter une blague",
+            "text": "Texte",
+            "delete": "Supprimer",
+            "save": "Sauvegarder",
+            "empty": "Il n'y pas d'enregistement"
+        },
+        "PresentationForm": {
+            "title": "Choix du mouvement pour FUN",
+            "locomotion": {
+                "label": "Locomotion"
+            },
+            "taichi": {
+                "label": "Tai Chi Chuan"
+            },
+            "disco": {
+                "label": "Disco"
+            },
+            "headbang": {
+                "label": "Head Bang"
+            },
+            "elephant": {
+                "label": "Eléphant"
+            },
+            "gorille": {
+                "label": "Gorille"
+            },
+            "souris": {
+                "label": "Souris"
+            },
+            "saxophone": {
+                "label": "Saxophone"
+            },
+            "guitare": {
+                "label": "Guitare"
+            },
+            "piano":{
+                "label": "Piano"
+            },
+            "football": {
+                "label": "Football Américain"
+            },
+            "golf": {
+                "label": "Golf"
+            },
+            "save": {
+                "label": "Enregistrer"
+            }
+        }
+    },
+    "game": {
+        "title": "Game",
+        "introForm": {
+            "title": "Introduction",
+            "speech": {
+                "label": "Speech"
+            },
+            "text": {
+                "label": "Texte"
+            },
+            "save": {
+                "label": "Enregistrer"
+            }
+        },
+        "endForm": {
+            "title": "Remerciement",
+            "speech": {
+                "label": "Speech"
+            },
+            "text": {
+                "label": "Texte"
+            },
+            "save": {
+                "label": "Enregistrer"
+            }
+        },
+        "addQuestionForm": {
+            "title": "Ajouter une question",
+            "question": {
+                "label": "Question"
+            },
+            "add": {
+                "label": "Ajouter"
+            },
+            "close": {
+                "label": "Fermer"
+            },
+            "new": {
+                "label": "Ajouter une question"
+            },
+            "speech": {
+                "label": "Speech"
+            },
+            "text": {
+                "label": "Texte"
+            },
+            "breponse": {
+                "label": "Réponse correcte"
+            },
+            "freponse": {
+                "label": "Réponse"
+            }
+        },
+        "editQuestions": {
+            "title": "Questions",
+            "save": {
+                "label": "Enregistrer"
+            },
+            "delete": {
+                "label": "Supprimer"
+            }
+        },
+        "empty": "Aucune question."
+    },
+    "reportProblem": {
+        "title": "Rapporter un problème",
+        "addAssetform": {
+            "title": "Ajouter une question",
+            "asset": {
+                "label": "Asset"
+            },
+            "stars": {
+                "label": "Nombre d'étoiles"
+            },
+            "add": {
+                "label": "Ajouter"
+            },
+            "close": {
+                "label": "Fermer"
+            },
+            "new": {
+                "label": "Ajouter asset"
+            },
+            "text": {
+                "label": "Texte"
+            }
+        },
+        "addProblemform": {
+            "title": "Ajouter un problème",
+            "problem": {
+                "label": "Problème"
+            },
+            "stars": {
+                "label": "Nombre d'étoiles"
+            },
+            "add": {
+                "label": "Ajouter"
+            },
+            "close": {
+                "label": "Fermer"
+            },
+            "new": {
+                "label": "Ajouter problème"
+            },
+            "text": {
+                "label": "Texte"
+            }
+        },
+        "editAssets": {
+            "title": "Liste des Assets",
+            "save": {
+                "label": "Enregistrer"
+            },
+            "delete": {
+                "label": "Supprimer"
+            }
+        },
+        "editProblems": {
+            "title": "Nature des Problèmes",
+            "save": {
+                "label": "Enregistrer"
+            },
+            "delete": {
+                "label": "Supprimer"
+            }
+        },
+        "mail":{
+            "title": "Mail",
+            "label": "Informations relatives à mailing",
+            "sender": "Mail émetteur",
+            "senderMdp": "Mot de passe",
+            "receiver": "Destinataire",
+            "AddrSmtp": "Adresse SMTP"
+        },
+        "formulaire": {
+            "title": "Page de conclusion",
+            "speech": {
+                "label": "Speech"
+            },
+            "text": {
+                "label": "Texte"
+            },
+            "save": {
+                "label": "Enregistrer"
+            }
+        },
+        "empty": "Aucune asset enregistrée."
+    },
+    "service":{
+        "label": "Titre du service",
+        "title": "Services",
+        "title1": "Titre du bouton",
+        "titleS": "Service",
+        "text": "Texte Affiché",
+        "titre": "Titre du service",
+        "titre1": "Titre des services",
+        "speech" : "Speech",
+        "new" : "Nouveau",
+        "poi" : "Point d’intérêt",
+        "empty" : "Aucune Page",
+        "content" : "Contenu",
+        "save" : "Enregistrer",
+        "delete" : "Supprimer",
+        "add" : "Ajouter",
+        "image" : "Lien vers l'image",
+        "page" : "Page",
+        "close" : "Fermer",
+        "message" : "Général"
+    },
+    "infos": {
+        "title": "Ecran d'information"
+    }
+}
