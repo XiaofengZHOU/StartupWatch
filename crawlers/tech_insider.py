@@ -48,12 +48,13 @@ class CrawlerTechInsider:
                 for link in links:
                     html_doc = get_html_doc(link)
                     soup = BeautifulSoup(html_doc, 'html.parser')
-
+                    for script in soup(["script", "style"]):
+                        script.extract() 
                     content = ""
                     paragraphs = soup.select(".post-content p")# container-selector + text_selector
                     for paragraph in paragraphs:
                         try:
-                            ccontent = content + paragraph.getText()+ ' '
+                            content = content + paragraph.getText()+ ' '
                         except AttributeError:
                             pass
                     content = ' '.join(content.split())

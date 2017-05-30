@@ -2,6 +2,8 @@ from bs4 import BeautifulSoup
 from crawlers.tools import get_html_doc
 from dateutil.parser import parse
 
+import time
+
 import unidecode
 
 class CrawlerTechCo:
@@ -33,10 +35,13 @@ class CrawlerTechCo:
                             link = a["href"]
                             links.append(link)
 
+
                 for link in links:
+                    time.sleep(2)
                     html_doc = get_html_doc(link)
                     soup = BeautifulSoup(html_doc, 'html.parser')
-
+                    for script in soup(["script", "style"]):
+                        script.extract() 
                     content = ""
                     paragraphs = soup.select(".content-wrap .dropcap p")  # container-selector + text_selector
                     for paragraph in paragraphs:
@@ -69,6 +74,7 @@ class CrawlerTechCo:
                     }
 
                     self.articles.append(article)
+                time.sleep(10)
             except ValueError as e:
                 print("Impossible de crawler Tech.co : Erreur "+str(e))
                 return

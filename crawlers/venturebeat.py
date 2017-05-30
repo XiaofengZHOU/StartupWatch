@@ -38,7 +38,8 @@ class CrawlerVenturebeat:
                 for link in links:
                     html_doc = get_html_doc(link)
                     soup = BeautifulSoup(html_doc, 'html.parser')
-
+                    for script in soup(["script", "style"]):
+                        script.extract() 
                     content = ""
                     paragraphs = soup.select(".article-content p")  # container-selector + text_selector
                     for paragraph in paragraphs:
@@ -69,8 +70,8 @@ class CrawlerVenturebeat:
                         "url": link,
                         "origin": "venturebeat"
                     }
-
-                    self.articles.append(article)
+                    if len(content) >1000:
+                        self.articles.append(article)
             except ValueError as e:
                 print("Impossible de crawler Venturebeat : Erreur "+str(e))
                 return

@@ -17,7 +17,7 @@ class CrawlerMashable:
 
         self.driver.get(base_url)
         for i in range(number_of_pages_to_crawl):
-            time.sleep(0.5)
+            time.sleep(1)
             self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight)")
 
     def crawl(self):
@@ -36,6 +36,8 @@ class CrawlerMashable:
             try:
                 html_doc = get_html_doc(link)
                 soup = BeautifulSoup(html_doc, 'html.parser')
+                for script in soup(["script", "style"]):
+                    script.extract() 
             except:
                 continue
 
