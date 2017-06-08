@@ -5,6 +5,7 @@ from util import *
 
 class CompaniesManager:
     def __init__(self):
+        init_firefox()
         self.companies = []
         self.articles = []
         self.companies_name = []
@@ -105,12 +106,14 @@ class CompaniesManager:
             
         '''
         i = 0
-        for index,company in enumerate(self.companies[2400:2700]):
+        for index,company in enumerate(self.companies):
             name = company["name"]
             search_label = None
             if "search_label" in company:
                 search_label = company["search_label"]
-                
+
+            '''  
+            # used for update website of the companies already searched 
             if search_label==None or "website" not in company:
                 if search_label != None and search_label != str(0):
                     url_crunchbase = company["search_label"]
@@ -119,7 +122,10 @@ class CompaniesManager:
                     continue
                 else:
                     url_crunchbase = existence_in_crunchbase(name)
-                    
+            '''
+            
+            if search_label == None:
+                url_crunchbase = existence_in_crunchbase(name)                  
                 if url_crunchbase != None:
                     print(name, ' in crunchbase')
                     i=i+1

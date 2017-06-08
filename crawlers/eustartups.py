@@ -3,6 +3,7 @@ from dateutil.parser import parse
 from crawlers.tools import get_html_doc
 import json
 
+
 import unidecode
 
 class CrawlerEUStartups:

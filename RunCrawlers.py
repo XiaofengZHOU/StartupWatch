@@ -19,15 +19,26 @@ from crawlers.ventureburn import CrawlerVentureBurn
 
 
 class RunCrawlers:
-    def __init__(self, num_pages_by_sites):
+    def __init__(self):
         self.articles = {}
         self.path_database = "data/data.json"
         self.crawlers = []
         self.keys = ["Techcrunch","Entrepreneur","EUStartups","Geekwire","Mashable","RobotReport","TechInsider",
-                     "TechCo","Venturebeat","StartupDaily","StartupsUK","TechWorld","VentureBurn","StartupBeat"]
-        
-        self.setArticles()
-        self.setCrawlers(num_pages_by_sites)
+                     "TechCo","Venturebeat","StartupDaily","StartupsUK","TechWorld","VentureBurn","StartupBeat"]      
+        self.setArticles()    
+        '''
+        test code
+        initialise dictionary num_pages_by_sites
+        '''
+        self.num_pages_by_sites = { "TechCrunch":5, "Entrepreneur":5, 
+                                    "EUStartups":5, "Geekwire":3,
+                                    "Mashable":5, "RobotReport":1,
+                                    "TechInsider":5, "TechCo":5,
+                                    "Venturebeat":5, "StartupDaily":5,
+                                    "StartupsUK":3, "TechWorld":5,
+                                    "VentureBurn":5, "StartupBeat":5}
+
+        self.setCrawlers(self.num_pages_by_sites)
         
         
     def setArticles(self): 
@@ -99,10 +110,21 @@ class RunCrawlers:
             articles = crawler.get_articles()
             
             print("*********************************************************")
-            filtered_articles = self.filter_startup(articles)   
-            print("number of articles crawled about startups : ", len(filtered_articles) )
-            filtered_articles = self.filter_by_database(filtered_articles,crawler.name)     
+            filtered_articles_1 = self.filter_startup(articles)   
+            print("number of articles crawled about startups : ", len(filtered_articles_1) )
+            filtered_articles = self.filter_by_database(filtered_articles_1,crawler.name)     
             print("number of articles crawled to add in the database : ", len(filtered_articles) )
+
+            '''
+            test code
+            change number of pages for each crawler
+            
+            if len(filtered_articles) < len(filtered_articles_1):
+                print("number page reduce :")
+                num_pages_reduce = (len(filtered_articles_1) - len(filtered_articles))//(len(filtered_articles_1)/self.num_pages_by_sites[crawler.name])
+                print(num_pages_reduce)
+            '''
+
             self.articles[crawler.name] = filtered_articles + self.articles[crawler.name]           
             articles_total = articles_total+len(filtered_articles)
             print("number of articles of this site in the database before remove repetition : ", len(self.articles[crawler.name] ) )

@@ -113,15 +113,15 @@ class ArticlesManager:
                 content = article['content']
                 title = article['title']
                 url = article['url']
-                
-                if "id" in article.keys():
+
+                if "id" in article.keys() or content == (" " or ""):
                     continue
-                    
                 else:
                     try:
-                        entities,sentiment_dic = watson_NLU(text =content)
+                        entities,sentiment_dic = watson_NLU(text = content)
                         companies,names  = extract_companies(entities)
                         sentiment = extract_sentiment(sentiment_dic)
+                        print("get info watson success !")
                         article["companies"] = names
                         article["extra_infos"] = companies
                         article["sentiment"] = sentiment

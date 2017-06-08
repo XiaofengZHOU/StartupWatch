@@ -7,23 +7,27 @@ import time
 
 import sys
 
-firefox_capabilities = DesiredCapabilities.FIREFOX
-firefox_capabilities['marionette'] = True
-firefox_capabilities['handleAlerts'] = True
-firefox_capabilities['acceptSslCerts'] = True
-firefox_capabilities['acceptInsecureCerts'] = True
-geckoPath = 'driver/geckodriver.exe'
-#capabilities=firefox_capabilities,
-firefox = webdriver.Firefox(executable_path=geckoPath)
-#driver = webdriver.PhantomJS(executable_path='driver/phantomjs.exe')
-driver = webdriver.Firefox( executable_path=geckoPath)
-try:
-    firefox.get('https://www.crunchbase.com/organization/apple')
-except:
-    pass
-driver.get('https://techcrunch.com/')
-firefox.set_page_load_timeout(2)
-driver.set_page_load_timeout(30)
+
+def init_firefox():
+    global firefox
+    global driver
+    firefox_capabilities = DesiredCapabilities.FIREFOX
+    firefox_capabilities['marionette'] = True
+    firefox_capabilities['handleAlerts'] = True
+    firefox_capabilities['acceptSslCerts'] = True
+    firefox_capabilities['acceptInsecureCerts'] = True
+    geckoPath = 'driver/geckodriver.exe'
+    #capabilities=firefox_capabilities,
+    firefox = webdriver.Firefox(executable_path=geckoPath)
+    #driver = webdriver.PhantomJS(executable_path='driver/phantomjs.exe')
+    driver = webdriver.Firefox( executable_path=geckoPath)
+    try:
+        firefox.get('https://www.crunchbase.com/organization/apple')
+    except:
+        pass
+    driver.get('https://techcrunch.com/')
+    firefox.set_page_load_timeout(2)
+    driver.set_page_load_timeout(30)
 
 def existence_in_crunchbase(name):
     #test : https://www.crunchbase.com/app/search?q=neokami
