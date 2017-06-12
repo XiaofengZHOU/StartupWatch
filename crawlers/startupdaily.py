@@ -3,6 +3,7 @@ from dateutil.parser import parse
 from crawlers.tools import get_html_doc
 
 import unidecode
+import json
 
 
 class CrawlerStartupDaily:
@@ -11,17 +12,29 @@ class CrawlerStartupDaily:
         self.articles = []
         self.name = "StartupDaily"
         self.silent = silent
-        base_url = "http://www.startupdaily.net/page/"
+        self.base_url = "http://www.startupdaily.net/page/"
         self.relative_url_origin = "http://www.startupdaily.net"
         for x in range(1, number_of_pages_to_crawl + 1):
             self.pages.append(base_url + str(x))
             
+        # test change code here
+        self.current_page_number = 1
+        self.crawl_or_not = True
+        
+
+    def set_page(self):
+        self.current_page_url = self.base_url + str(self.current_page_number)
+        self.current_page_number += 1
+            
     def crawl(self):
+        '''
         pages_length = len(self.pages)
         for idx, page in enumerate(self.pages):
+        '''
+        while self.crawl_or_not:
             links = []
             try:
-                html_doc = get_html_doc(page)
+                html_doc = get_html_doc(self.current_page_url)
                 soup = BeautifulSoup(html_doc, 'html.parser')           
                 blocks = soup.select("h2.post-title a")  # article_selector
             except:
@@ -59,14 +72,14 @@ class CrawlerStartupDaily:
                     date = soup.select("li.post-date a")[0].getText()
                     date = int(parse(date).timestamp())
 
-
+                
                 try:
                     title = soup.select_one('head title')
                     title = title.text.split(' - ')[0]
                     title = unidecode.unidecode(title)
                 except:
                     continue
-                   
+                    
                 article = {
                     "title": title,
                     "content": content,
@@ -77,7 +90,7 @@ class CrawlerStartupDaily:
 
                 self.articles.append(article)
 
-            self.log("Startup Daily Crawling at " + str(((idx + 1) / pages_length) * 100) + "%")
+        self.log("Startup Daily Crawling at " + str(((idx + 1) / pages_length) * 100) + "%")
 
     def get_articles(self):
         return self.articles
