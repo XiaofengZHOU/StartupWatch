@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 from dateutil.parser import parse
-from crawlers.tools import get_html_doc
+from crawlers.tools import *
 
 import unidecode
 import json
@@ -20,18 +20,23 @@ class CrawlerStartupDaily:
         # test change code here
         self.current_page_number = 1
         self.crawl_or_not = True
-        
+        self.timestamp = get_timestamp('StartupDaily')
+
 
     def set_page(self):
         self.current_page_url = self.base_url + str(self.current_page_number)
         self.current_page_number += 1
+
+        
             
     def crawl(self):
         '''
         pages_length = len(self.pages)
         for idx, page in enumerate(self.pages):
         '''
+        temp_timestamp = self.timestamp
         while self.crawl_or_not:
+            self.set_page()
             links = []
             try:
                 html_doc = get_html_doc(self.current_page_url)
@@ -72,7 +77,14 @@ class CrawlerStartupDaily:
                     date = soup.select("li.post-date a")[0].getText()
                     date = int(parse(date).timestamp())
 
-                
+                if int(date) <= int(self.timestamp):
+                    set_timestamp('StartupDaily', temp_timestamp)
+                    self.crawl_or_not = False                    
+                    break
+                elif int(date) > int(temp_timestamp):
+                    temp_timestamp = date
+                    print("new article at:", temp_timestamp)
+              
                 try:
                     title = soup.select_one('head title')
                     title = title.text.split(' - ')[0]
@@ -90,7 +102,7 @@ class CrawlerStartupDaily:
 
                 self.articles.append(article)
 
-        self.log("Startup Daily Crawling at " + str(((idx + 1) / pages_length) * 100) + "%")
+        #self.log("Startup Daily Crawling at " + str(((idx + 1) / pages_length) * 100) + "%")
 
     def get_articles(self):
         return self.articles

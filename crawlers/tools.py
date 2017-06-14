@@ -30,3 +30,21 @@ def get_html_doc(url):
         except (TypeError, urllib.error.HTTPError, http.client.RemoteDisconnected, requests.exceptions.ConnectionError):
             return None
     return html_doc
+
+    def get_timestamp(self, site_name):
+        if os.path.isfile("data/timestamps.json"):
+            with open("data/timestamps.json", 'r') as f:
+                timestamps = json.load(f)
+                f.close()
+                if timestamps[site_name]:
+                    return timestamps[site_name]
+                else: 
+                    return 0
+
+    def set_timestamp(self, site_name, timestamp):
+        if os.path.isfile("data/timestamps.json"):
+            with open("data/timestamps.json", 'r') as f:
+                timestamps = json.load(f)
+                timestamps[site_name] = timestamp
+                f.close()
+
