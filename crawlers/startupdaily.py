@@ -1,6 +1,8 @@
 from bs4 import BeautifulSoup
 from dateutil.parser import parse
-from crawlers.tools import *
+#from crawlers.tools import *
+from tools import *
+
 
 import unidecode
 import json
@@ -14,8 +16,11 @@ class CrawlerStartupDaily:
         self.silent = silent
         self.base_url = "http://www.startupdaily.net/page/"
         self.relative_url_origin = "http://www.startupdaily.net"
+
+        '''
         for x in range(1, number_of_pages_to_crawl + 1):
             self.pages.append(base_url + str(x))
+        '''
             
         # test change code here
         self.current_page_number = 1
@@ -110,3 +115,4 @@ class CrawlerStartupDaily:
     def log(self, message):
         if not self.silent:
             print(message)
+
